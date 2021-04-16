@@ -1,2 +1,2 @@
 # gitcourse
-test progect
+test project
